@@ -17,4 +17,4 @@
  - [01. Brunch Data Exploration Analysis.ipynb](https://github.com/choco9966/T-academy-Recommendation/blob/master/code/01.%20Brunch%20Data%20Exploration%20Analysis.ipynb)
  - [02. Brunch Baseline - Popular Based Recommendation.ipynb](https://github.com/choco9966/T-academy-Recommendation/blob/master/code/02.%20Brunch%20Baseline%20-%20Popular%20Based%20Recommendation.ipynb)
  - [03. Brunch Baseline - Collaborative Filtering Recommendation (ALS).ipynb](https://github.com/choco9966/T-academy-Recommendation/blob/master/code/03.%20Brunch%20Baseline%20-%20Collaborative%20Filtering%20Recommendation%20(ALS).ipynb)
- - [04. Brunch Baseline - Content Based Recommendation.ipynb[(https://github.com/choco9966/T-academy-Recommendation/blob/master/code/04.%20Brunch%20Baseline%20-%20Content%20Based%20Recommendation.ipynb)
+ - [04. Brunch Baseline - Content Based Recommendation.ipynb](https://github.com/choco9966/T-academy-Recommendation/blob/master/code/04.%20Brunch%20Baseline%20-%20Content%20Based%20Recommendation.ipynb)
